@@ -27,7 +27,7 @@ At a glance, the temperature statistics between the two months of June and Decem
    |Max|85|83|
 
 ## Summary
-Analyzing the temperatures alone, we can have confidence that the weather will be good enough to support the surf and ice cream shop business year-round. The temperatures are very close, and we wouldn't expect these difference in temperature alone to affect business significantly.
+Analyzing the temperatures alone, we can have confidence that the weather will be good enough to support the surf and ice cream shop business year-round. The temperatures are very close, and we wouldn't expect the difference in temperature alone to affect business significantly.
 
 Besides the temperature differences, we should also consider the precipitation differences between the two months. We could adjust our SQLite queries as follows:
 1. Query June precipitation:
