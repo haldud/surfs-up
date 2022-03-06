@@ -12,7 +12,7 @@ The SQLite database containing the weather observations can be found here: [Hawa
 
 ## Results
 At a glance, the temperature statistics between the two months of June and December do not seem very drastic. Here are specific examples from the summary statistics:
-1. The mean temperate is 74.9 °F in June and  71.0 °F in December.
+1. The mean temperate is 74.9 °F in June and 71.0 °F in December.
 2. The 25%, 50%, and 75% percentile statistics are no more than 4 °F apart.
    |Percentile |June °F  | December °F|
    --- | --- | ---|
